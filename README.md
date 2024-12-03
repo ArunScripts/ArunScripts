@@ -1,16 +1,16 @@
 # ✨ Hey, I’m Arunkumar! Welcome to My GitHub Playground! 🎉  
 
   
-👋 Hi there! I'm **Arunkumar**, a passionate **Python Developer** and tech enthusiast.  
+👋 Hi there! I'm  a passionate **Python Developer** and tech enthusiast.  
 I'm on a journey to master **web development** and build awesome projects. 🚀  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **Education**: BA in Defence and Strategic Studies  
 - 💻 **Skills**: Python, Django, MySQL, HTML, CSS, JavaScript  
-- 🎯 **Current Goal**: Learning and growing in software development!  
-- 🏅 **Achievements**: Department Sports Chairman, won overall trophy on Sports Day  
+- 🎯 **Current Goal**: Learning and growing in software development!
+- 🎓 **Education**: BA in Defence and Strategic Studies
+- 🏅 **Achievements**: Department Sports Chairman, won the overall trophy on Sports Day  
 - 🌍 **Hometown**: Tamil Nadu, India  
 
 ---
