@@ -1,6 +1,6 @@
-# 🌟 Arunkumar's GitHub Profile 🌟  
+# ✨ Hey, I’m Arunkumar! Welcome to My GitHub Playground! 🎉  
 
-**Welcome to my GitHub!**  
+  
 👋 Hi there! I'm **Arunkumar**, a passionate **Python Developer** and tech enthusiast.  
 I'm on a journey to master **web development** and build awesome projects. 🚀  
 
@@ -56,9 +56,9 @@ I'm on a journey to master **web development** and build awesome projects. 🚀
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-- 💼 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
+- 📧 Email: [jarun.fwd@gmail.com](jarun.fwd@gmail.com)
+- 📞 Contact Number: +91 9345266961    
+- 💼 LinkedIn: [www.linkedin.com/in/arunkumar9345](www.linkedin.com/in/arunkumar9345)  
 
 ---
 
